@@ -1,0 +1,35 @@
+[
+  {
+    "id": "fa6396b5-d79a-4e69-94e4-28d3f2225382",
+    "title": "Add your name in the body",
+    "description": "prueba",
+    "price": 123,
+    "thumbnail": "prueba.jpg",
+    "code": "masd",
+    "stock": 12,
+    "status": true,
+    "category": "otros"
+  },
+  {
+    "id": "07085bb4-08ba-4ae1-bbc2-e95e170950ec",
+    "title": "Add your name in the body",
+    "description": "prueba2",
+    "price": 1231,
+    "thumbnail": "prue2ba.jpg",
+    "code": "m2asd",
+    "stock": 122,
+    "status": true,
+    "category": "otros"
+  },
+  {
+    "id": "664c803e-a465-4eac-a190-c5a4e13192ff",
+    "title": "prueba5",
+    "description": "prueba de postman",
+    "price": 378,
+    "thumbnail": "asd.jpg",
+    "code": "qwer1",
+    "stock": 22,
+    "status": true,
+    "category": "otros"
+  }
+]
